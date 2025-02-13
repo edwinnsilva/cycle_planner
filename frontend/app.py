@@ -7,7 +7,7 @@ from datetime import date
 from streamlit_calendar import calendar as st_calendar
 
 
-BACKEND_URL = "http://127.0.0.1:8000/"
+BACKEND_URL = "https://cycle-planner.onrender.com"
 EVENTS_PATH = "/events/"
 BASE_URL_DATE_NAGER  = "https://date.nager.at/"
 AVAILABLE_COUNTRIES_PATH = "/api/v3/AvailableCountries"
