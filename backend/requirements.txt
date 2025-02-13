@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+ics
+pydantic
+streamlit
+streamlit_calendar
