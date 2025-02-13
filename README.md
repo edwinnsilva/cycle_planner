@@ -53,6 +53,3 @@ Este es un backend construido con FastAPI. Proporciona endpoints para la gestió
 FastAPI genera documentación automática en:
 - **Swagger UI**: [http://0.0.0.0:8000/docs](http://0.0.0.0:8000/docs) (local)
 - **Redoc**: [http://0.0.0.0:8000/redoc](http://0.0.0.0:8000/redoc) (local)
-
-Cuando se despliega en Render, sustituye `http://0.0.0.0:8000` con la URL pública del servicio.
-
